@@ -143,6 +143,7 @@
 #define USE_UART3
 #define USE_SOFTSERIAL1
 #define USE_SOFTSERIAL2
+#define USE_PWM
 
 #define SERIAL_PORT_COUNT       5
 
