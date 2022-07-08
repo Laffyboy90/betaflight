@@ -114,6 +114,7 @@
 
 #else //SPRACINGF3
 
+#define USE_PWM
 #define USE_RANGEFINDER
 #define USE_RANGEFINDER_HCSR04
 #define RANGEFINDER_HCSR04_TRIGGER_PIN       PB0
@@ -143,7 +144,6 @@
 #define USE_UART3
 #define USE_SOFTSERIAL1
 #define USE_SOFTSERIAL2
-#define USE_PWM
 
 #define SERIAL_PORT_COUNT       5
 
